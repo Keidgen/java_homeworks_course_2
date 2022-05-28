@@ -1,4 +1,4 @@
-package ru.skypro;
+package ru.skypro.homework_2;
 
 public class gryffindor extends hogwarts{
     private int nobility;   //Благородство
